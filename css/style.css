@@ -1,0 +1,38 @@
+h1{
+	color: indianred;
+}
+.line{
+	list-style:binary ;
+}
+.line li a {
+	text-decoration: none;
+}
+.wrapper{
+overflow: hidden;
+}
+.box1{
+	width: 50%;
+	height: 50pt;
+	border: 5px solid white;
+    background: teal;
+    box-sizing: border-box;
+    float: left;
+}
+.box2{
+    width: 50%;
+	height: 50pt;
+	border: 5px solid white;
+    background: turquoise;
+    box-sizing: border-box;
+    float: right;
+
+}
+.tbl { width: 40%;
+	font-size: 30px;
+	border:2px solid black;text-align: center;
+	margin: auto; border-collapse: collapse;
+}
+tr {
+	border:2px solid black;text-align: center;
+	margin: auto; border-collapse: collapse;
+}
